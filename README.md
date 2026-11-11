@@ -7,4 +7,4 @@ After cleaning the data, I tested three different models. The linear regression 
 
 All three models are analyzed through prediction errors, specifically the mean absolute error to compare their prediction performance. 
 
-This project was developed and run in Jupyter notebook using the conda 290A environment and imported into the github repository.
+This project was developed and run in Jupyter notebook using the conda 290A environment, and imported into the github repository.
